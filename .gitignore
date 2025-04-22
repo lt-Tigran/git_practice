@@ -1,6 +1,2 @@
-# Windows OS file
-*thumbs.db
+**/.DS_Store
 
-# macOS OS file
-*.DS_Store
-DS_Store*
